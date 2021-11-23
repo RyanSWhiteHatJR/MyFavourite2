@@ -1,0 +1,71 @@
+body {
+    text-align: center;
+}
+
+
+#Home {
+    text-align: center;
+    background: rgb(255, 0, 0);
+    background: #9CECFB;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+img {
+    border-radius: 10px;
+    width: 200px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+}
+
+
+#Hobby {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#HGaming {
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-family: Times New Roman;
+}
+
+
+p {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+
+}
+
+
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style:none;
+    font-family:cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+}
